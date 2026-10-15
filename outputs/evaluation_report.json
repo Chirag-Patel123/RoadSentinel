@@ -1,0 +1,32 @@
+{
+  "status": "Evaluated (RDD2022 Benchmark Run)",
+  "source": "Official Road Damage Dataset (RDD) Validation Run",
+  "dataset": "Road Damage Dataset (Longitudinal, Transverse, Alligator, Potholes)",
+  "architecture": "YOLOv8 Small (8400 anchors, 5 classes)",
+  "total_epochs_trained": 76,
+  "best_epoch": 76,
+  "metrics": {
+    "mAP50": 0.6285,
+    "mAP50_95": 0.3446,
+    "precision": 0.662,
+    "recall": 0.5828,
+    "f1_score": 0.6199,
+    "final_epoch_metrics": {
+      "epoch": 76,
+      "precision": 0.662,
+      "recall": 0.5828,
+      "mAP50": 0.6285,
+      "mAP50_95": 0.3446,
+      "val_box_loss": 1.6403,
+      "val_cls_loss": 1.4754,
+      "val_dfl_loss": 1.4438
+    }
+  },
+  "classes_evaluated": [
+    "Longitudinal Crack",
+    "Transverse Crack",
+    "Alligator Crack",
+    "Pothole",
+    "Other Road Damage"
+  ]
+}

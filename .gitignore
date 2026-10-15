@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+runs/
+.pytest_cache/
+
+# Local runtime data & uploads
+data/*.db
+data/uploads/*
+!data/uploads/.gitkeep
+data/outputs/*
+!data/outputs/.gitkeep

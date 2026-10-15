@@ -1,0 +1,180 @@
+[
+  {
+    "image": "alligator_crack\\India_000024.jpg",
+    "category": "alligator_crack",
+    "dimensions": "720x720",
+    "detection_count": 1,
+    "predictions": [
+      [
+        "Alligator Crack",
+        0.559
+      ]
+    ],
+    "ground_truth_count": 1,
+    "latency_sec": 6.984,
+    "annotated_path": "outputs\\real_image_tests\\annotated_alligator_crack_India_000024.jpg"
+  },
+  {
+    "image": "alligator_crack\\India_000067.jpg",
+    "category": "alligator_crack",
+    "dimensions": "720x720",
+    "detection_count": 0,
+    "predictions": [],
+    "ground_truth_count": 1,
+    "latency_sec": 3.055,
+    "annotated_path": "outputs\\real_image_tests\\annotated_alligator_crack_India_000067.jpg"
+  },
+  {
+    "image": "longitudinal_crack\\India_000104.jpg",
+    "category": "longitudinal_crack",
+    "dimensions": "720x720",
+    "detection_count": 1,
+    "predictions": [
+      [
+        "Longitudinal Crack",
+        0.446
+      ]
+    ],
+    "ground_truth_count": 1,
+    "latency_sec": 3.015,
+    "annotated_path": "outputs\\real_image_tests\\annotated_longitudinal_crack_India_000104.jpg"
+  },
+  {
+    "image": "longitudinal_crack\\India_000125.jpg",
+    "category": "longitudinal_crack",
+    "dimensions": "720x720",
+    "detection_count": 2,
+    "predictions": [
+      [
+        "Alligator Crack",
+        0.38
+      ],
+      [
+        "Longitudinal Crack",
+        0.211
+      ]
+    ],
+    "ground_truth_count": 4,
+    "latency_sec": 3.455,
+    "annotated_path": "outputs\\real_image_tests\\annotated_longitudinal_crack_India_000125.jpg"
+  },
+  {
+    "image": "pothole\\India_000092.jpg",
+    "category": "pothole",
+    "dimensions": "720x720",
+    "detection_count": 3,
+    "predictions": [
+      [
+        "Longitudinal Crack",
+        0.383
+      ],
+      [
+        "Longitudinal Crack",
+        0.248
+      ],
+      [
+        "Longitudinal Crack",
+        0.2
+      ]
+    ],
+    "ground_truth_count": 4,
+    "latency_sec": 3.014,
+    "annotated_path": "outputs\\real_image_tests\\annotated_pothole_India_000092.jpg"
+  },
+  {
+    "image": "pothole\\India_000093.jpg",
+    "category": "pothole",
+    "dimensions": "720x720",
+    "detection_count": 1,
+    "predictions": [
+      [
+        "Pothole",
+        0.587
+      ]
+    ],
+    "ground_truth_count": 1,
+    "latency_sec": 3.502,
+    "annotated_path": "outputs\\real_image_tests\\annotated_pothole_India_000093.jpg"
+  },
+  {
+    "image": "pothole\\kaggle_pothole_01.jpg",
+    "category": "pothole",
+    "dimensions": "416x416",
+    "detection_count": 3,
+    "predictions": [
+      [
+        "Pothole",
+        0.895
+      ],
+      [
+        "Pothole",
+        0.772
+      ],
+      [
+        "Pothole",
+        0.252
+      ]
+    ],
+    "ground_truth_count": 2,
+    "latency_sec": 3.052,
+    "annotated_path": "outputs\\real_image_tests\\annotated_pothole_kaggle_pothole_01.jpg"
+  },
+  {
+    "image": "pothole\\kaggle_pothole_02.jpg",
+    "category": "pothole",
+    "dimensions": "416x416",
+    "detection_count": 1,
+    "predictions": [
+      [
+        "Pothole",
+        0.361
+      ]
+    ],
+    "ground_truth_count": 1,
+    "latency_sec": 3.123,
+    "annotated_path": "outputs\\real_image_tests\\annotated_pothole_kaggle_pothole_02.jpg"
+  },
+  {
+    "image": "pothole\\kaggle_pothole_03.jpg",
+    "category": "pothole",
+    "dimensions": "416x416",
+    "detection_count": 3,
+    "predictions": [
+      [
+        "Pothole",
+        0.439
+      ],
+      [
+        "Pothole",
+        0.33
+      ],
+      [
+        "Pothole",
+        0.295
+      ]
+    ],
+    "ground_truth_count": 1,
+    "latency_sec": 3.834,
+    "annotated_path": "outputs\\real_image_tests\\annotated_pothole_kaggle_pothole_03.jpg"
+  },
+  {
+    "image": "transverse_crack\\India_001201.jpg",
+    "category": "transverse_crack",
+    "dimensions": "720x720",
+    "detection_count": 0,
+    "predictions": [],
+    "ground_truth_count": 2,
+    "latency_sec": 2.927,
+    "annotated_path": "outputs\\real_image_tests\\annotated_transverse_crack_India_001201.jpg"
+  },
+  {
+    "image": "transverse_crack\\India_001782.jpg",
+    "category": "transverse_crack",
+    "dimensions": "720x720",
+    "detection_count": 0,
+    "predictions": [],
+    "ground_truth_count": 1,
+    "latency_sec": 3.183,
+    "annotated_path": "outputs\\real_image_tests\\annotated_transverse_crack_India_001782.jpg"
+  }
+]
